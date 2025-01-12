@@ -2,14 +2,14 @@ rockspec_format = "3.0"
 package = "lain"
 version = "scm-1"
 source = {
-   url = "git+https://github.com/lcpz/lain.git"
+   url = "git+https://github.com/cabra-lat/lain.git"
 }
 description = {
    summary = "Layout, widgets and utilities for Awesome WM",
    detailed = "Alternative layouts, asynchronous widgets and utility functions for Awesome WM. Non-Lua dependency: curl (for IMAP, MPD and weather widgets).",
-   homepage = "https://github.com/lcpz/lain",
-   issues_url = "https://github.com/lcpz/lain/issues",
-   maintainer = "Luca Cpz",
+   homepage = "https://github.com/cabra-lat/lain",
+   issues_url = "https://github.com/cabra-lat/lain/issues",
+   maintainer = "Cabra Lat",
    license = "GPL2"
 }
 dependencies = {
